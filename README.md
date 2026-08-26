@@ -13,7 +13,7 @@
 
 <p align="center">
 
-[**Download**]((https://share.google/4RWFRtEWhprjs07CO))
+[**Download**](https://share.google/4RWFRtEWhprjs07CO)
 
 </p>
 
