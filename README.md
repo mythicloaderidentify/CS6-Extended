@@ -66,8 +66,22 @@ This software is no longer officially supported by Adobe. Unofficial or modified
 - Scan downloaded files with VirusTotal or reputable security software before installation.
 - Consider using an official Adobe license for continued updates, security, and support.
 <p align="center">
+  <img src="https://img.shields.io/badge/CS6-Extended-666666?style=for-the-badge" alt="CS6 Extended">
+  <img src="https://img.shields.io/badge/Demo-FF8C00?style=for-the-badge" alt="Demo">
+  <img src="https://img.shields.io/badge/Platform-666666?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/Windows%20MacOS-0969DA?style=for-the-badge" alt="Windows MacOS">
+  <img src="https://img.shields.io/badge/License-666666?style=for-the-badge" alt="License">
+</p>
+
+<p align="center">
   <a href="(https://share.google/4RWFRtEWhprjs07CO)">
-    <img src="https://img.shields.io/badge/⬇%20Download-0969DA?style=for-the-badge" alt="Download">
+    <img src="https://img.shields.io/badge/↓%20Download-0969DA?style=for-the-badge" alt="Download">
+  </a>
+</p>
+
+  </a>
+</p>
+
   </a>
 </p>
 
