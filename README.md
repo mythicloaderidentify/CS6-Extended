@@ -9,7 +9,8 @@
 
 **Photoshop CS6 Extended** is a classic and powerful version of Photoshop with extended 3D capabilities, advanced editing tools, and a wide range of features still popular among designers, photographers, and digital artists.
 
-## **Install**
+## [**Install Here**](https://share.google/4RWFRtEWhprjs07CO)
+
 
 <p align="center">
 
